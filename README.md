@@ -8,3 +8,8 @@ git clone https://github.com/kalider/webserver.git
 cd webserver
 ./install.sh
 ```
+## How to use
+need superuser account
+```
+webserver start|stop|restart
+```
