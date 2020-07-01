@@ -1,5 +1,5 @@
 # webserver
-Set to manual apache and mysql in local server 
+Remove autostart apache and mysql in local server, and add command to start manually. 
 ## Prerequisites
 You must have install apache and mysql in your pc or leptop
 ## Install
